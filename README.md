@@ -1,5 +1,3 @@
-<img align="right" width="400" alt="raja mondal coding" src="https://media1.tenor.com/m/z3Vqx6hmE5QAAAAd/whale-docker.gif">
-
 # Docker Commands Cheat Sheet
 
 ## Images
