@@ -226,4 +226,4 @@ docker network rm <network_name>
 docker network prune
 ```
 
-<div align="center"> <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="300" /> </div> ```
+<div align="center"> <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" width="300" style="opacity: 0.1;" /> </div> ```
